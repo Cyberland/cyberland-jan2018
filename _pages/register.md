@@ -3,7 +3,7 @@ ID: 168
 post_title: Register
 author: ng23055
 post_excerpt: ""
-layout: post
+layout: page
 permalink: >
   http://cyberland.shepherdmaplesyrupfestival.com/register
 published: true
