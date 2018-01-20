@@ -1,12 +1,12 @@
 ---
-ID: 135
+ID: 178
 post_title: Password Reset
 author: ng23055
 post_excerpt: ""
 layout: page
 permalink: >
-  http://cyberland.shepherdmaplesyrupfestival.com/membership-login/password-reset
+  http://cyberland.shepherdmaplesyrupfestival.com/password-reset
 published: true
-post_date: 2018-01-12 01:52:38
+post_date: 2018-01-20 02:10:29
 ---
-[swpm_reset_form]
+[ultimatemember_password]
